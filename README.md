@@ -3,8 +3,8 @@ Linear Control Programming project, implemented using JavaSE to calculate the ov
 
 ## Authors
 
-* **Hisham Osama** [PurpleBooth](https://github.com/HishamOsama)
+* **Hisham Osama** [HishamOsama](https://github.com/HishamOsama)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
